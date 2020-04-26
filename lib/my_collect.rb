@@ -8,4 +8,4 @@ def my_collect(array)
     collection
 end
 
-my_collect(list) {|i|
+my_collect(list) {|i| i.split{
